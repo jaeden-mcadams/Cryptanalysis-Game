@@ -1,7 +1,7 @@
-#Cryptanalysis-Game#
+Cryptanalysis Game
 --------------------------------
 
-#About#
+About
 
 This program is a cryptanalysis game in which the user guesses a 3 digit number within a limited amount of attempts. The program does the following:
 - Shows how many correct digits and misplaced digits are in a user's guess.
@@ -11,7 +11,7 @@ This program is a cryptanalysis game in which the user guesses a 3 digit number 
 
 --------------------------------
 
-#Local Setup and Installation#
+Local Setup and Installation
 
 This program uses pygame and assets within the original file to operate. In order for the program to operate locally, follow these steps:
 1. Ensure all files within the game's folder are downloaded properly. They should all be within the same folder by default.
